@@ -1,2 +1,4 @@
 # How-to-save-Money-with-Python
-In this Project, i will make a model to save my money in online shopping.
+I want to buy a pendrive but right now it is out of my budget. Should i regularly visit the same page to check the price or is there any other way..?? Being a computer science engineer, i should develop some logic to save my time , efforts and of course money.
+
+So, here we go.
